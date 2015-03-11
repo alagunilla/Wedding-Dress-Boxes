@@ -1,0 +1,54 @@
+[10-Mar-2015 06:33:10 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 06:33:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[10-Mar-2015 06:33:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[10-Mar-2015 06:36:12 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 06:36:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[10-Mar-2015 06:36:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[10-Mar-2015 06:36:13 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 06:36:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[10-Mar-2015 06:36:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[10-Mar-2015 06:37:10 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 06:37:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[10-Mar-2015 06:37:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[10-Mar-2015 07:02:27 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:02:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[10-Mar-2015 07:02:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[10-Mar-2015 07:03:17 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:03:39 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:06:15 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:06:36 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:06:56 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:11:17 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:12:23 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:18:06 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:19:18 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:19:58 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:21:27 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 07:27:18 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 23:34:37 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[10-Mar-2015 23:35:11 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:17:56 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:18:17 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:40:25 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:45:00 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:45:30 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:50:05 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[11-Mar-2015 00:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[11-Mar-2015 00:53:45 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:53:55 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:55:06 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:55:54 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:57:40 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:57:50 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[11-Mar-2015 00:57:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[11-Mar-2015 00:57:52 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 00:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 748
+[11-Mar-2015 00:57:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php:21) in /home/weddingdressbox/public_html/wp-includes/option.php on line 749
+[11-Mar-2015 00:58:05 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 03:46:16 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 04:17:30 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 04:25:15 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 05:33:52 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
+[11-Mar-2015 05:35:05 UTC] PHP Warning:  Creating default object from empty value in /home/weddingdressbox/public_html/wp-content/themes/goran/inc/customizer.php on line 21
